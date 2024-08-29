@@ -1,13 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>The StoicJLM Blog</title>
+    <title>StoicJLM Blog</title>
     <link>https://stoicjlm.github.io/</link>
-    <description>Recent content on The StoicJLM Blog</description>
+    <description>Recent content on StoicJLM Blog</description>
+    <image>
+      <title>StoicJLM Blog</title>
+      <url>https://stoicjlm.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://stoicjlm.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
     <generator>Hugo -- 0.117.0</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 29 Aug 2024 20:50:08 +0900</lastBuildDate>
+    <language>en</language>
+    <lastBuildDate>Thu, 29 Aug 2024 21:57:04 +0900</lastBuildDate>
     <atom:link href="https://stoicjlm.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apply_templete</title>
+      <link>https://stoicjlm.github.io/posts/apply_templete/</link>
+      <pubDate>Thu, 29 Aug 2024 21:57:04 +0900</pubDate>
+      <guid>https://stoicjlm.github.io/posts/apply_templete/</guid>
+      <description>First upload after applying new templetes</description>
+    </item>
+    <item>
+      <title>test</title>
+      <link>https://stoicjlm.github.io/posts/retry/</link>
+      <pubDate>Thu, 29 Aug 2024 20:50:08 +0900</pubDate>
+      <guid>https://stoicjlm.github.io/posts/retry/</guid>
+      <description>hi</description>
+    </item>
     <item>
       <title>This is the post title</title>
       <link>https://stoicjlm.github.io/posts/mypost/</link>
