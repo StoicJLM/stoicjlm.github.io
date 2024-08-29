@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>The StoicJLM Blog</title>
+    <link>https://stoicjlm.github.io/</link>
+    <description>Recent content on The StoicJLM Blog</description>
+    <generator>Hugo -- 0.117.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 29 Aug 2024 20:50:08 +0900</lastBuildDate>
+    <atom:link href="https://stoicjlm.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>This is the post title</title>
+      <link>https://stoicjlm.github.io/posts/mypost/</link>
+      <pubDate>Thu, 29 Aug 2024 20:50:08 +0900</pubDate>
+      <guid>https://stoicjlm.github.io/posts/mypost/</guid>
+      <description>This is some content
+class Solution: def myAtoi(self, s: str) -&amp;gt; int: # Step 1: Remove leading whitespace s = s.lstrip() if not s: return 0 # Step 2: Handle sign sign = 1 i = 0 if s[0] == &amp;#39;-&amp;#39;: sign = -1 i += 1 elif s[0] == &amp;#39;+&amp;#39;: i += 1 # Step 3: Convert digits to integer result = 0 while i &amp;lt; len(s) and s[i].isdigit(): result = result * 10 + int(s[i]) i += 1 # Step 4: Apply sign and handle 32-bit overflow result *= sign int_min, int_max = -2**31, 2**31 - 1 if result &amp;lt; int_min: return int_min elif result &amp;gt; int_max: return int_max else: return result </description>
+    </item>
+  </channel>
+</rss>
