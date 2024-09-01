@@ -11,29 +11,17 @@
     </image>
     <generator>Hugo -- 0.117.0</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 29 Aug 2024 21:57:04 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 01 Sep 2024 14:56:04 +0900</lastBuildDate>
     <atom:link href="https://stoicjlm.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Apply_templete</title>
-      <link>https://stoicjlm.github.io/posts/apply_templete/</link>
-      <pubDate>Thu, 29 Aug 2024 21:57:04 +0900</pubDate>
-      <guid>https://stoicjlm.github.io/posts/apply_templete/</guid>
-      <description>First upload after applying new templetes</description>
-    </item>
-    <item>
-      <title>test</title>
-      <link>https://stoicjlm.github.io/posts/retry/</link>
-      <pubDate>Thu, 29 Aug 2024 20:50:08 +0900</pubDate>
-      <guid>https://stoicjlm.github.io/posts/retry/</guid>
-      <description>hi</description>
-    </item>
-    <item>
-      <title>This is the post title</title>
-      <link>https://stoicjlm.github.io/posts/mypost/</link>
-      <pubDate>Thu, 29 Aug 2024 20:50:08 +0900</pubDate>
-      <guid>https://stoicjlm.github.io/posts/mypost/</guid>
-      <description>This is some content
-class Solution: def myAtoi(self, s: str) -&amp;gt; int: # Step 1: Remove leading whitespace s = s.lstrip() if not s: return 0 # Step 2: Handle sign sign = 1 i = 0 if s[0] == &amp;#39;-&amp;#39;: sign = -1 i += 1 elif s[0] == &amp;#39;+&amp;#39;: i += 1 # Step 3: Convert digits to integer result = 0 while i &amp;lt; len(s) and s[i].isdigit(): result = result * 10 + int(s[i]) i += 1 # Step 4: Apply sign and handle 32-bit overflow result *= sign int_min, int_max = -2**31, 2**31 - 1 if result &amp;lt; int_min: return int_min elif result &amp;gt; int_max: return int_max else: return result </description>
+      <title>Mac에서 Rust의 개발환경 구축하기</title>
+      <link>https://stoicjlm.github.io/posts/mac_rust_install/</link>
+      <pubDate>Sun, 01 Sep 2024 14:56:04 +0900</pubDate>
+      <guid>https://stoicjlm.github.io/posts/mac_rust_install/</guid>
+      <description>이 글은 https://qiita.com/maoutokagura/items/c2fd85132bcec399c3a1 을 보고 직접 Rust를 설치할 수 있었기 때문에 성공예시를 위해 기록한 것이다. 만약 위의 url이 더 이상 유효하지 않을 상황을 대비해서 백업 차원에서 적은 포스트임에 유의하라.
+rustup인가 Homebrew인가 Rust를 설치하기 위해서는, rustup이라는 Rust의 셋업 명령어를 사용하는 것이 추천된다. Homebrew에서 rustc(rust 컴파일러)를 설치하는 것도 가능하지만, 개발에 필요한 각종 커맨드(linter의 clippy등)은 Homebrew가 없기 때문에, 그것들을 설치하는 데 막대한 노동이 필요하기 때문에 추천하지 않는다.
+rustup의 설치 먼저, rustup을 설치한다.
+rustup의 설치 방법에는, Homebrew를 사용하는 방법과, 셋업 명령어를 사용하는 방법이 있다.</description>
     </item>
   </channel>
 </rss>

@@ -2,29 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://stoicjlm.github.io/posts/apply_templete/</loc>
-    <lastmod>2024-08-29T21:57:04+09:00</lastmod>
-  </url><url>
-    <loc>https://stoicjlm.github.io/tags/first/</loc>
-    <lastmod>2024-08-29T21:57:04+09:00</lastmod>
-  </url><url>
-    <loc>https://stoicjlm.github.io/posts/</loc>
-    <lastmod>2024-08-29T21:57:04+09:00</lastmod>
-  </url><url>
-    <loc>https://stoicjlm.github.io/</loc>
-    <lastmod>2024-08-29T21:57:04+09:00</lastmod>
-  </url><url>
-    <loc>https://stoicjlm.github.io/tags/</loc>
-    <lastmod>2024-08-29T21:57:04+09:00</lastmod>
-  </url><url>
-    <loc>https://stoicjlm.github.io/posts/retry/</loc>
-    <lastmod>2024-08-29T20:50:08+09:00</lastmod>
-  </url><url>
-    <loc>https://stoicjlm.github.io/posts/mypost/</loc>
-    <lastmod>2024-08-29T20:50:08+09:00</lastmod>
-  </url><url>
-    <loc>https://stoicjlm.github.io/posts/archives/</loc>
+    <loc>https://stoicjlm.github.io/tags/applesilicon/</loc>
+    <lastmod>2024-09-01T14:56:04+09:00</lastmod>
   </url><url>
     <loc>https://stoicjlm.github.io/categories/</loc>
+    <lastmod>2024-09-01T14:56:04+09:00</lastmod>
+  </url><url>
+    <loc>https://stoicjlm.github.io/tags/mac/</loc>
+    <lastmod>2024-09-01T14:56:04+09:00</lastmod>
+  </url><url>
+    <loc>https://stoicjlm.github.io/posts/mac_rust_install/</loc>
+    <lastmod>2024-09-01T14:56:04+09:00</lastmod>
+  </url><url>
+    <loc>https://stoicjlm.github.io/posts/</loc>
+    <lastmod>2024-09-01T14:56:04+09:00</lastmod>
+  </url><url>
+    <loc>https://stoicjlm.github.io/tags/rust/</loc>
+    <lastmod>2024-09-01T14:56:04+09:00</lastmod>
+  </url><url>
+    <loc>https://stoicjlm.github.io/categories/rust/</loc>
+    <lastmod>2024-09-01T14:56:04+09:00</lastmod>
+  </url><url>
+    <loc>https://stoicjlm.github.io/</loc>
+    <lastmod>2024-09-01T14:56:04+09:00</lastmod>
+  </url><url>
+    <loc>https://stoicjlm.github.io/tags/</loc>
+    <lastmod>2024-09-01T14:56:04+09:00</lastmod>
+  </url><url>
+    <loc>https://stoicjlm.github.io/archives/</loc>
   </url>
 </urlset>

@@ -11,13 +11,27 @@
     </image>
     <generator>Hugo -- 0.117.0</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 29 Aug 2024 21:57:04 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 01 Sep 2024 14:56:04 +0900</lastBuildDate>
     <atom:link href="https://stoicjlm.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>first</title>
-      <link>https://stoicjlm.github.io/tags/first/</link>
+      <title>AppleSilicon</title>
+      <link>https://stoicjlm.github.io/tags/applesilicon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://stoicjlm.github.io/tags/first/</guid>
+      <guid>https://stoicjlm.github.io/tags/applesilicon/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mac</title>
+      <link>https://stoicjlm.github.io/tags/mac/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://stoicjlm.github.io/tags/mac/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rust</title>
+      <link>https://stoicjlm.github.io/tags/rust/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://stoicjlm.github.io/tags/rust/</guid>
       <description></description>
     </item>
   </channel>
